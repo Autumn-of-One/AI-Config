@@ -1,0 +1,10 @@
+# 常见忽略项
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+*.key
+*.pem
